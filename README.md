@@ -1,8 +1,9 @@
 # RubiksCube
 
 A library in processing that allows you to mess with a Rubik's cube in code.
+Currently only supports 3x3x3 and runs slow.
 
-#Use
+# Use
 
 To make a cube:
 ```java
